@@ -1,12 +1,12 @@
 <template>
   <div id="app">
   
+ <imgg></imgg>
       <hello></hello>
       <br />
 <cam></cam>
  <br />
  <database></database>
- <imgg></imgg>
   </div>
 </template>
 
